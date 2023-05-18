@@ -7,6 +7,9 @@ class BottomNavIcon extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Icon(icon,color: kIconColorWhite,);
+    return Icon(
+      icon,
+      color: kIconColorWhite,
+    );
   }
 }
